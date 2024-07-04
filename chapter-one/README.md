@@ -27,6 +27,36 @@ Porém cabe dizer que isso vale para algo isolado, na prova em si isso não foi 
 são longos e extenuantes, e tem uma tendência a crescer em escopo.
 Um restaurante pode fazer uma comida boa sem organização, mas não consegue manter essa qualidade sem organização.
 
-O custo de um código ruim pode ser resumido em uma história que o livro nos conta:
+O custo de um código ruim pode ser resumido em um cenário que o livro retrata:
+1. Existe uma equipe trabalhando em um projeto, no início desse projeto a equipe acelera sem ligar para a qualidade do código
+2. Conforme o tempo passa mais confuso o código fica, o que causa um atraso na entrega das tarefas
+3. Vendo a queda na produtividade, o gestor decide contratar mais desenvolvedores, porém isso gera o oposto do esperado. 
+Agora temos mais gente que não teve contato com o código envolvido com aquele código extremamente confuso, 
+além de que há uma pressão pra se entregar mais do que antes (afinal, foi contratado mais gente)
+4. Tudo isso acaba gerando mais código confuso, o que gera a longo prazo uma queda ainda maior na produtividade
 
-""
+E o que é feito então? Mais merda
+
+1. A equipe consegue convencer a gestão que o projeto está insustentavel
+2. É criada uma iniciativa para refazer o projeto do zero - agora vai! -
+3. É criado um time para cuidar do novo projeto, enquanto o novo projeto é criado o antigo continuará a ser mantido
+4. Acontece então uma pressão nesse novo time para que ele termine todas as funcionalidades que existem no projeto antigo
+5. O novo time acelera e acaba criando novos códigos ruins
+6. Conforme o tempo passa mais confuso o código fica, o que causa um atraso na entrega das tarefas
+
+E aí um novo ciclo desastroso se inicia
+
+Se você passou por isso, minhas condolencias. Não cabe a mim dizer de quem foi a culpa, mas saiba que a culpa foi sua!
+
+Não se assuste, eu sei que quem colocou pressão e deu um prazo extremamente curto não foi você, mas foi você quem criou o código.
+Um médico pode justificar que foi por conta da pressão ou do tempo muito curto, mas ele é o culpado quando ocorre displicencia na cirugia.
+
+Mas se acalme, tu não é o único culpado - é sempre melhor tá na desgraça com outra pessoa - 
+A gestão é culpada por impor suas decisões, principalmente quando passa por cima do clamor da área técnica.
+**Perceba que o código limpo é algo que se inicia no individuo mas que também depende da cultura da empresa**
+
+Tá! Eu entedi o ponto, mas o que seria um código limpo?
+
+É sobre esse ponto que esse livro vai tratar, cabe dizer que a definição de limpo/sujo depende da escola de pensamento do programador
+Esse livro não representa uma verdade inquestionável, mas sim lança como alcançar um código limpo na definição do autor.
+
