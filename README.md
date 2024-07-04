@@ -18,7 +18,7 @@ A ideia do livro é lançar pontos e boas práticas para a codificação.
 
 ## Estrutura do livro:
 - Parte 1: Princípios e padrões para a criação de um código limpo
-  - Capítulo 1: Código Limpo
+  - [Capítulo 1: Código Limpo](https://github.com/KingofTime/studies.clean-code/tree/main/chapter-one#cap%C3%ADtulo-1-c%C3%B3digo-limpo)
 - Parte 2: Estudos de Caso
 - Parte 3: Heurísticas e odores
 
